@@ -29,7 +29,7 @@ Currently, I’m studying AI and other emerging technologies with the goal of co
 - 👯 I’m looking to collaborate on projects related to Java, AI, web development, requirements analysis, and systems.
 - 🤔 I’m seeking help to explore opportunities in the AI field and learn advanced algorithms.
 - 💬 Ask me about Java, database management, and AI tools.
-- 📫 How to reach me: <a hrf="https://www.linkedin.com/in/sheyla-vaz-de-lima-144136301/">LinkedIn.</a>
+- 📫 How to reach me: [Meu LinkedIn](https://www.linkedin.com/in/sheyla-vaz-de-lima-144136301/).
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I’ve recently started exploring Python and love solving puzzles in my free time!
 
