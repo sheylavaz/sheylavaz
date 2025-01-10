@@ -12,7 +12,7 @@ Atualmente, estudo IA e outras tecnologias emergentes com o objetivo de aprimora
 - 👯 Procuro colaborar em projetos relacionados a Java, IA, desenvolvimento web, analise de requisitos e sistemas.  
 - 🤔 Estou buscando ajuda para explorar oportunidades na área de IA e aprender algoritmos avançados.
 - 💬 Me pergunte sobre Java, gerenciamento de bancos de dados e ferramentas de IA.  
-- 📫 Como me encontrar: https://www.linkedin.com/in/sheyla-vaz-de-lima-144136301/.  
+- 📫 Como me encontrar: [Meu LinkedIn](https://www.linkedin.com/in/sheyla-vaz-de-lima-144136301/).  
 - 😄 Pronomes: Ela/Dela.  
 - ⚡ Curiosidade: Recentemente comecei a explorar Python e adoro resolver enigmas no meu tempo livre! 
 
